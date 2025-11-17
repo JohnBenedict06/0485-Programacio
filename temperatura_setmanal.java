@@ -12,7 +12,7 @@ public class temperatura_setmanal {
         double baja = 0;
 
         for(int i = 0; i < dies.length; i++ ){
-            System.out.println(semana[i]);
+            System.out.println(semana[i] +":");
             int temperatura = s.nextInt();
             if (i <= dies.length){
                 System.out.println(temperatura + " graus");
