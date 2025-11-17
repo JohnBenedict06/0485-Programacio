@@ -1,4 +1,4 @@
-public class Switch {
+public class java {
     public  static void main(String[] args) {
         
         int dia = 3;

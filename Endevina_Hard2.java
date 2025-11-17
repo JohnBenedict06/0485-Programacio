@@ -30,5 +30,6 @@ public class Endevina_Hard2 {
         if (!check) {
         System.out.println("Has superat el limit d'intents. El número secret era: " + num_secret);
         }
+        lector.close();
     }
 }

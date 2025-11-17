@@ -22,5 +22,6 @@ public class NotaAlta {
         else{
             System.out.println("No hi ha cap alumne amb un 10");
         }
+        s.close();
     }
 }

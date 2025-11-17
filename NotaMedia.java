@@ -15,5 +15,6 @@ public class NotaMedia {
             j += b;
         }
         System.out.println("La mitjana dels valors és: " + j/a);
+        s.close();
     }
 }

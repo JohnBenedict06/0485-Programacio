@@ -23,5 +23,6 @@ public class NotaSuspes {
         else{
             System.out.println("Cap alumne ha suspès.");
         }
+        s.close();
     }
 }

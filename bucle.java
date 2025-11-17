@@ -1,4 +1,4 @@
-public class Bucle {
+public class bucle {
     public static void main(String[] args) {
     int i = 5;
     while (i >= 0) {
